@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
-![](media/logo.jpg)
+![](media/logo.png)
 
 
 
