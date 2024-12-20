@@ -17,6 +17,9 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
+![](media/logo.jpg)
+
+
 
 | <a href="https://github.com/sichutancha/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sichutancha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sichutancha&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
